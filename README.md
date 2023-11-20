@@ -1,16 +1,16 @@
-# moc-templates
+# libjson
 
-This repository serves two purposes:
+This was written as a simple example of how to parse a file using flex
+and bison.
 
-- It may be used as a template repository when creating new repositories in the [CCI-MOC][] organization.
-- It is the canonical location of the `LICENSE` and `CONTRIBUTING.md` files.
-
-[cci-moc]: https://github.com/CCI-MOC/
+This was originally implemented using xcode - however I am moving it
+to use make and google test as these are more general tools than
+xcode and using xc-test.
 
 ## Contributing
 
-We'd love to have you contribute! Please refer to our [contribution
-guidelines](CONTRIBUTING.md) for details.
+You're welcom to suggest things, and if you feel so inclined to contribute
+I'm willing to listen. [contribution guidelines](CONTRIBUTING.md) for details.
 
 ## License
 
