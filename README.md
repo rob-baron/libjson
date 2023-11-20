@@ -9,7 +9,7 @@ xcode and using xc-test.
 
 ## Contributing
 
-You're welcom to suggest things, and if you feel so inclined to contribute
+You're welcome to suggest things, and if you feel so inclined to contribute
 I'm willing to listen. [contribution guidelines](CONTRIBUTING.md) for details.
 
 ## License
